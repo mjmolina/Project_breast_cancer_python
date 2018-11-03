@@ -5,7 +5,7 @@ from matplotlib import ticker
 from scipy import stats
 
 
-my_data2 = np.genfromtxt('USCS_DemographicRace.csv', delimiter=',', usecols=(2,3),dtype="U20,f8")
+my_data2 = np.genfromtxt('data/USCS_DemographicRace.csv', delimiter=',', usecols=(2,3),dtype="U20,f8")
 
 print(my_data2)
 

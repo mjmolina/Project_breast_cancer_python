@@ -1,0 +1,868 @@
+#Year,Area,CancerType,AgeAdjustedRate,lci,uci,DeathCount,Population
+1999,Alaska,Female Breast,20.4,14.4,28.1,42,301266
+1999,Hawaii,Female Breast,21.1,17.7,25,138,601830
+1999,Utah,Female Breast,21.7,18.7,25.1,185,1100167
+1999,Wyoming,Female Breast,23,17.5,29.8,58,244518
+1999,South Dakota,Female Breast,23.1,18.9,28.1,110,378500
+1999,Montana,Female Breast,23.4,19.4,28,122,450543
+1999,New Mexico,Female Breast,23.5,20.4,26.8,215,918661
+1999,Alabama,Female Breast,25.7,23.7,27.7,653,2293259
+1999,Arizona,Female Breast,25.4,23.5,27.4,684,2518299
+1999,Arkansas,Female Breast,25.3,22.8,27.9,401,1359445
+1999,California,Female Breast,25.1,24.4,25.9,4060,16800161
+1999,Colorado,Female Breast,24.8,22.6,27.1,489,2101358
+1999,Vermont,Female Breast,25.4,20.3,31.3,89,308398
+1999,Virginia,Female Breast,27.2,25.6,29,1008,3569683
+1999,Washington,Female Breast,23.9,22.2,25.8,725,2934901
+1999,West Virginia,Female Breast,24.8,22,27.9,286,931809
+1999,Wisconsin,Female Breast,26.6,24.8,28.5,825,2701525
+1999,Tennessee,Female Breast,26.1,24.4,28,833,2897466
+1999,Texas,Female Breast,25.2,24.2,26.2,2408,10360202
+1999,North Carolina,Female Breast,26.6,25.1,28.2,1168,4062710
+1999,North Dakota,Female Breast,26,21.2,31.6,111,322617
+1999,Ohio,Female Breast,29.3,28,30.6,1960,5835017
+1999,Oklahoma,Female Breast,26.4,24.1,28.8,522,1748783
+1999,Oregon,Female Breast,26.6,24.4,29.1,511,1712226
+1999,Pennsylvania,Female Breast,29.2,28.1,30.5,2386,6347064
+1999,Rhode Island,Female Breast,26.4,22.6,30.7,179,540724
+1999,South Carolina,Female Breast,27.7,25.5,30,604,2045606
+1999,New York,Female Breast,28.3,27.3,29.3,3127,9777654
+1999,Nebraska,Female Breast,23.9,21,27.2,249,865531
+1999,Nevada,Female Breast,26.7,23.5,30.3,245,949422
+1999,New Hampshire,Female Breast,27.6,23.8,31.9,186,621409
+1999,New Jersey,Female Breast,28.8,27.3,30.4,1436,4304271
+1999,Minnesota,Female Breast,24.9,23.1,26.9,670,2462931
+1999,Mississippi,Female Breast,28.1,25.5,30.9,429,1464581
+1999,Missouri,Female Breast,25.7,24,27.5,856,2860166
+1999,Massachusetts,Female Breast,27.1,25.5,28.8,1045,3274830
+1999,Michigan,Female Breast,28.1,26.7,29.6,1531,5047770
+1999,Indiana,Female Breast,26.4,24.6,28.2,898,3083351
+1999,Iowa,Female Breast,25.8,23.5,28.3,479,1488223
+1999,Kansas,Female Breast,25.3,22.8,28,386,1356044
+1999,Kentucky,Female Breast,26.7,24.6,28.9,602,2056401
+1999,Louisiana,Female Breast,29.2,27,31.5,683,2302744
+1999,Maine,Female Breast,27.1,23.5,31,215,650598
+1999,Maryland,Female Breast,28,26.1,30,791,2716928
+1999,Connecticut,Female Breast,25.5,23.4,27.8,541,1747148
+1999,Delaware,Female Breast,27.7,23,33.2,120,398732
+1999,District of Columbia,Female Breast,35.8,29.6,43,118,301797
+1999,Florida,Female Breast,24.4,23.4,25.4,2579,8073847
+1999,Georgia,Female Breast,26.1,24.5,27.8,1008,4096031
+1999,Idaho,Female Breast,27,23,31.3,171,636798
+1999,Illinois,Female Breast,29.5,28.2,30.8,2007,6313350
+2000,Hawaii,Female Breast,18,14.9,21.6,119,603494
+2000,Arkansas,Female Breast,23.3,20.9,25.8,374,1371015
+2000,Colorado,Female Breast,23.3,21.2,25.5,476,2147742
+2000,Utah,Female Breast,22.7,19.6,26,198,1119827
+2000,Nebraska,Female Breast,22.1,19.3,25.3,226,868980
+2000,Alabama,Female Breast,26.7,24.7,28.7,691,2302835
+2000,Alaska,Female Breast,28,21,36.5,61,303213
+2000,Arizona,Female Breast,26.1,24.2,28.1,718,2584579
+2000,California,Female Breast,25.7,24.9,26.5,4243,17050415
+2000,Connecticut,Female Breast,25.5,23.3,27.8,539,1759318
+2000,Delaware,Female Breast,31.3,26.3,36.9,140,404447
+2000,District of Columbia,Female Breast,29.1,23.5,35.6,96,302643
+2000,Wyoming,Female Breast,25,19.3,31.9,65,245584
+2000,West Virginia,Female Breast,27.9,24.9,31.2,329,928269
+2000,Wisconsin,Female Breast,25.2,23.5,27.1,788,2719235
+2000,Virginia,Female Breast,29,27.3,30.8,1097,3619742
+2000,Washington,Female Breast,24.3,22.6,26.2,749,2967734
+2000,Texas,Female Breast,25.2,24.2,26.2,2466,10545156
+2000,Vermont,Female Breast,28.6,23.4,34.8,106,310849
+2000,South Dakota,Female Breast,27.8,23.1,33.3,129,380681
+2000,Tennessee,Female Breast,26.4,24.6,28.2,863,2926133
+2000,South Carolina,Female Breast,28.7,26.5,31,637,2068627
+2000,Pennsylvania,Female Breast,27.6,26.4,28.8,2280,6351999
+2000,Rhode Island,Female Breast,28,24,32.5,187,545774
+2000,Oregon,Female Breast,24.5,22.4,26.9,477,1728647
+2000,Ohio,Female Breast,29,27.7,30.3,1957,5845425
+2000,Oklahoma,Female Breast,25.5,23.3,27.9,513,1756493
+2000,North Carolina,Female Breast,24.2,22.8,25.7,1075,4119034
+2000,North Dakota,Female Breast,23.9,19.2,29.4,97,321555
+2000,New Mexico,Female Breast,25.7,22.6,29.2,241,925624
+2000,New York,Female Breast,27.6,26.6,28.6,3093,9842061
+2000,New Hampshire,Female Breast,26,22.4,30.1,181,630111
+2000,New Jersey,Female Breast,31,29.4,32.5,1567,4340112
+2000,Nevada,Female Breast,26.8,23.6,30.3,257,990315
+2000,Montana,Female Breast,25.1,20.9,29.8,131,453425
+2000,Maryland,Female Breast,27.6,25.7,29.6,795,2746031
+2000,Massachusetts,Female Breast,26.9,25.3,28.7,1059,3296245
+2000,Michigan,Female Breast,27.1,25.7,28.5,1493,5072182
+2000,Minnesota,Female Breast,26.9,25,29,733,2490622
+2000,Mississippi,Female Breast,30,27.3,32.9,463,1472553
+2000,Missouri,Female Breast,27.8,26,29.7,925,2879787
+2000,Florida,Female Breast,24.4,23.5,25.4,2653,8217314
+2000,Georgia,Female Breast,25.5,24,27.2,1007,4180233
+2000,Idaho,Female Breast,27.5,23.6,31.9,178,647984
+2000,Illinois,Female Breast,29.6,28.4,31,2045,6345277
+2000,Indiana,Female Breast,27.8,26.1,29.7,950,3103169
+2000,Iowa,Female Breast,23.7,21.5,26.1,451,1491775
+2000,Kansas,Female Breast,27.7,25.1,30.5,434,1362500
+2000,Kentucky,Female Breast,26,24,28.2,598,2069716
+2000,Louisiana,Female Breast,30.4,28.2,32.7,725,2306978
+2000,Maine,Female Breast,24.2,20.9,27.9,197,655545
+2001,Idaho,Female Breast,19.8,16.5,23.5,131,658043
+2001,South Dakota,Female Breast,18.8,14.9,23.4,87,381537
+2001,New Mexico,Female Breast,19.1,16.4,22,183,930387
+2001,Hawaii,Female Breast,20.5,17.2,24.2,139,609189
+2001,Alaska,Female Breast,22.2,15.8,30.1,46,305579
+2001,Colorado,Female Breast,22.4,20.4,24.5,469,2195705
+2001,Florida,Female Breast,23.3,22.4,24.3,2562,8372776
+2001,Kansas,Female Breast,22.3,20,24.8,355,1365966
+2001,Rhode Island,Female Breast,23.4,19.8,27.4,159,548974
+2001,Utah,Female Breast,22.1,19.1,25.4,197,1139182
+2001,Wyoming,Female Breast,23,17.5,29.7,60,245327
+2001,Montana,Female Breast,22.9,19,27.3,124,454683
+2001,Maine,Female Breast,22,18.9,25.5,182,659657
+2001,Alabama,Female Breast,28.6,26.6,30.7,748,2309496
+2001,Arizona,Female Breast,24.2,22.4,26.1,685,2641676
+2001,Arkansas,Female Breast,24.6,22.3,27.2,395,1376845
+2001,California,Female Breast,24.9,24.1,25.6,4200,17294223
+2001,Connecticut,Female Breast,27.3,25.1,29.6,594,1768959
+2001,Delaware,Female Breast,26.8,22.3,32,123,409349
+2001,District of Columbia,Female Breast,39,32.5,46.5,128,303740
+2001,Georgia,Female Breast,25,23.5,26.6,1010,4256162
+2001,Illinois,Female Breast,26.6,25.4,27.9,1846,6370443
+2001,Indiana,Female Breast,26.9,25.2,28.7,921,3120158
+2001,Iowa,Female Breast,24,21.8,26.4,455,1492287
+2001,Kentucky,Female Breast,27.6,25.4,29.8,636,2076871
+2001,Pennsylvania,Female Breast,28.2,27.1,29.4,2316,6354395
+2001,South Carolina,Female Breast,26,23.9,28.2,589,2089963
+2001,Tennessee,Female Breast,25.8,24.1,27.6,845,2948421
+2001,Texas,Female Breast,24.9,23.9,25.9,2483,10731190
+2001,Vermont,Female Breast,29.1,23.8,35.3,106,311779
+2001,Virginia,Female Breast,27.9,26.3,29.7,1077,3665386
+2001,Washington,Female Breast,24.3,22.6,26.1,759,3002080
+2001,West Virginia,Female Breast,25.6,22.8,28.7,309,923643
+2001,Wisconsin,Female Breast,25.7,24,27.6,821,2733647
+2001,Oklahoma,Female Breast,26.9,24.6,29.3,536,1760052
+2001,Oregon,Female Breast,26.3,24.1,28.7,520,1747889
+2001,Ohio,Female Breast,28.6,27.3,29.9,1941,5853691
+2001,North Carolina,Female Breast,25.4,24,26.9,1154,4187317
+2001,North Dakota,Female Breast,25.5,20.7,31.2,103,319787
+2001,New Jersey,Female Breast,28.8,27.3,30.3,1467,4369932
+2001,New York,Female Breast,27.6,26.7,28.6,3125,9878713
+2001,New Hampshire,Female Breast,26.2,22.6,30.3,186,637412
+2001,Nebraska,Female Breast,25.1,22,28.4,254,871208
+2001,Nevada,Female Breast,25.3,22.2,28.6,255,1030850
+2001,Missouri,Female Breast,27.2,25.4,29,917,2895476
+2001,Minnesota,Female Breast,25,23.1,27,687,2514149
+2001,Mississippi,Female Breast,28.2,25.6,31,440,1473486
+2001,Michigan,Female Breast,26.3,25,27.7,1473,5089289
+2001,Maryland,Female Breast,27.9,26,29.9,819,2779864
+2001,Massachusetts,Female Breast,26.7,25.1,28.4,1048,3312567
+2001,Louisiana,Female Breast,30.5,28.3,32.8,729,2308063
+2002,Hawaii,Female Breast,16.4,13.5,19.7,115,616192
+2002,Wyoming,Female Breast,19.7,14.8,25.9,53,247785
+2002,Alaska,Female Breast,21.2,15.1,28.7,47,309633
+2002,New Mexico,Female Breast,21.9,19.1,25.1,216,941856
+2002,Rhode Island,Female Breast,23.6,20,27.6,164,553090
+2002,Minnesota,Female Breast,22.7,20.9,24.5,641,2531205
+2002,Nevada,Female Breast,25.7,22.7,29,270,1069764
+2002,New Hampshire,Female Breast,24.4,20.9,28.3,176,643680
+2002,New Jersey,Female Breast,28.5,27.1,30,1476,4398801
+2002,New York,Female Breast,26,25.1,27,2988,9902927
+2002,North Carolina,Female Breast,26.2,24.8,27.8,1221,4250179
+2002,North Dakota,Female Breast,25.9,21,31.7,103,319017
+2002,Ohio,Female Breast,27.9,26.7,29.2,1913,5859385
+2002,Oklahoma,Female Breast,27.1,24.9,29.5,546,1769080
+2002,Oregon,Female Breast,24.7,22.6,27,501,1771126
+2002,Pennsylvania,Female Breast,27.9,26.7,29.1,2317,6363832
+2002,Nebraska,Female Breast,24.2,21.3,27.5,252,874803
+2002,Missouri,Female Breast,26.1,24.4,27.9,893,2910476
+2002,Montana,Female Breast,27.4,23.2,32.3,150,456712
+2002,Mississippi,Female Breast,26.7,24.2,29.4,419,1475412
+2002,Michigan,Female Breast,26.9,25.6,28.3,1516,5100171
+2002,Maine,Female Breast,24,20.8,27.6,201,664226
+2002,Maryland,Female Breast,29.3,27.4,31.3,879,2815197
+2002,Massachusetts,Female Breast,26.4,24.8,28.1,1055,3319436
+2002,Kentucky,Female Breast,27.7,25.6,30,652,2087223
+2002,Louisiana,Female Breast,29.6,27.5,31.9,718,2315524
+2002,Idaho,Female Breast,25.2,21.5,29.2,173,668686
+2002,Illinois,Female Breast,27.1,25.9,28.4,1897,6387897
+2002,Indiana,Female Breast,25.6,23.9,27.3,900,3133342
+2002,Iowa,Female Breast,25,22.7,27.4,483,1491450
+2002,Kansas,Female Breast,26.5,24,29.2,419,1371898
+2002,Alabama,Female Breast,25.6,23.7,27.6,681,2314370
+2002,Arizona,Female Breast,22.7,21,24.5,659,2704217
+2002,Arkansas,Female Breast,25.4,23,28,416,1383239
+2002,California,Female Breast,24,23.3,24.7,4133,17498462
+2002,Colorado,Female Breast,23,21,25.1,493,2228665
+2002,Connecticut,Female Breast,25.2,23.1,27.4,551,1780500
+2002,Delaware,Female Breast,23.6,19.4,28.5,110,414652
+2002,District of Columbia,Female Breast,34.3,28.2,41.4,110,303146
+2002,Florida,Female Breast,23.6,22.7,24.6,2668,8541734
+2002,Georgia,Female Breast,25.2,23.7,26.8,1042,4327934
+2002,South Carolina,Female Breast,27,25,29.3,627,2111069
+2002,South Dakota,Female Breast,23.8,19.5,28.9,109,382328
+2002,Tennessee,Female Breast,25.9,24.2,27.7,865,2971873
+2002,Texas,Female Breast,24.7,23.7,25.6,2510,10914653
+2002,Utah,Female Breast,24.1,21,27.5,220,1158853
+2002,Vermont,Female Breast,21.6,17.1,27,81,312959
+2002,Virginia,Female Breast,26.9,25.3,28.5,1059,3713695
+2002,Washington,Female Breast,23.8,22.1,25.5,762,3036742
+2002,West Virginia,Female Breast,22.8,20.1,25.7,274,923841
+2002,Wisconsin,Female Breast,24.5,22.8,26.3,790,2751697
+2003,Hawaii,Female Breast,17.1,14.2,20.4,122,623753
+2003,Montana,Female Breast,20.8,17.2,25,117,460116
+2003,Alaska,Female Breast,23.2,17.1,30.6,55,313034
+2003,Arizona,Female Breast,22.4,20.8,24.2,675,2764077
+2003,Arkansas,Female Breast,23.5,21.2,26,386,1391523
+2003,Colorado,Female Breast,23.1,21.1,25.2,506,2253214
+2003,Florida,Female Breast,22.6,21.7,23.5,2594,8697573
+2003,Minnesota,Female Breast,22.8,21.1,24.7,640,2546999
+2003,Iowa,Female Breast,23.2,21,25.5,452,1493907
+2003,Nebraska,Female Breast,23.3,20.4,26.5,244,879362
+2003,New Mexico,Female Breast,22.6,19.8,25.8,228,952303
+2003,North Dakota,Female Breast,23.4,18.8,28.9,93,318896
+2003,Alabama,Female Breast,25.4,23.5,27.4,679,2324069
+2003,California,Female Breast,23.8,23,24.5,4184,17709509
+2003,Connecticut,Female Breast,23.7,21.7,25.9,525,1793468
+2003,Georgia,Female Breast,26,24.5,27.6,1104,4394952
+2003,Delaware,Female Breast,25.2,20.9,30.2,119,420802
+2003,District of Columbia,Female Breast,29.6,23.9,36.2,97,300607
+2003,Idaho,Female Breast,24.9,21.3,29,173,679877
+2003,Massachusetts,Female Breast,24.5,22.9,26.1,995,3320817
+2003,Michigan,Female Breast,25.1,23.8,26.4,1439,5110521
+2003,Illinois,Female Breast,26.5,25.3,27.7,1872,6402859
+2003,Indiana,Female Breast,26.5,24.8,28.3,943,3152366
+2003,Kansas,Female Breast,26.9,24.3,29.6,431,1377415
+2003,Mississippi,Female Breast,26.9,24.4,29.6,425,1479611
+2003,Missouri,Female Breast,26.7,25,28.5,923,2926556
+2003,Nevada,Female Breast,26.4,23.5,29.6,296,1108135
+2003,New Hampshire,Female Breast,25,21.4,28.9,180,648513
+2003,New Jersey,Female Breast,28.7,27.3,30.2,1506,4421964
+2003,New York,Female Breast,26,25.1,27,3015,9917810
+2003,North Carolina,Female Breast,25,23.6,26.4,1186,4313901
+2003,Ohio,Female Breast,28,26.7,29.3,1929,5868535
+2003,Oklahoma,Female Breast,26.1,23.9,28.4,541,1777723
+2003,Oregon,Female Breast,26.1,23.9,28.4,548,1788805
+2003,Pennsylvania,Female Breast,27.2,26,28.3,2291,6377894
+2003,Rhode Island,Female Breast,24.1,20.5,28.2,169,555590
+2003,South Carolina,Female Breast,25,23,27.1,588,2133967
+2003,South Dakota,Female Breast,26.3,21.7,31.6,121,383633
+2003,Tennessee,Female Breast,27.7,25.9,29.5,934,3000983
+2003,Texas,Female Breast,24.5,23.5,25.4,2554,11095953
+2003,Utah,Female Breast,23.7,20.7,27,222,1175867
+2003,Vermont,Female Breast,26.3,21.3,32.2,98,314206
+2003,Virginia,Female Breast,27,25.4,28.7,1087,3757780
+2003,Washington,Female Breast,24,22.4,25.8,788,3065739
+2003,West Virginia,Female Breast,25.4,22.6,28.5,306,925835
+2003,Wisconsin,Female Breast,23.7,22.1,25.5,769,2766901
+2003,Wyoming,Female Breast,24.4,18.8,31.1,66,249128
+2003,Maine,Female Breast,27.5,24,31.3,231,668680
+2003,Maryland,Female Breast,26.9,25.1,28.8,820,2843847
+2003,Kentucky,Female Breast,25.2,23.2,27.3,599,2102308
+2003,Louisiana,Female Breast,30.7,28.5,33,754,2327153
+2004,Hawaii,Female Breast,16,13.2,19.2,118,636864
+2004,Alaska,Female Breast,19.1,13.6,26,45,317807
+2004,Arizona,Female Breast,21.9,20.3,23.6,676,2835606
+2004,California,Female Breast,23.4,22.7,24.2,4202,17871415
+2004,Colorado,Female Breast,22.6,20.6,24.7,509,2274511
+2004,Wisconsin,Female Breast,23.5,21.8,25.2,773,2782678
+2004,Washington,Female Breast,23.4,21.7,25.1,778,3107815
+2004,Texas,Female Breast,23.2,22.3,24.1,2473,11278402
+2004,Utah,Female Breast,22.9,19.9,26.1,221,1196749
+2004,South Carolina,Female Breast,23.1,21.2,25.1,559,2162305
+2004,South Dakota,Female Breast,22.2,18,27,106,386677
+2004,Rhode Island,Female Breast,21.8,18.4,25.7,155,556375
+2004,North Dakota,Female Breast,21.9,17.5,27.3,88,321008
+2004,Oklahoma,Female Breast,22.5,20.5,24.7,464,1784671
+2004,Alabama,Female Breast,24.2,22.4,26.2,651,2337857
+2004,Arkansas,Female Breast,24.9,22.5,27.4,418,1403048
+2004,Connecticut,Female Breast,24.9,22.8,27.1,553,1798078
+2004,Delaware,Female Breast,26.5,22.1,31.4,131,427320
+2004,District of Columbia,Female Breast,27.3,21.9,33.7,90,300284
+2004,Wyoming,Female Breast,24.9,19.4,31.5,70,251506
+2004,West Virginia,Female Breast,24.7,22,27.7,304,927027
+2004,Vermont,Female Breast,24.6,19.9,30.2,96,315080
+2004,Virginia,Female Breast,25.5,24,27.1,1052,3814310
+2004,Tennessee,Female Breast,25.7,24,27.4,885,3027931
+2004,Pennsylvania,Female Breast,27.5,26.4,28.7,2312,6390749
+2004,North Carolina,Female Breast,25.3,23.9,26.7,1226,4376070
+2004,Ohio,Female Breast,27.1,25.9,28.4,1888,5874411
+2004,Oregon,Female Breast,24,21.9,26.2,512,1800377
+2004,Florida,Female Breast,23.4,22.6,24.4,2754,8902447
+2004,Georgia,Female Breast,26,24.5,27.6,1131,4463524
+2004,Idaho,Female Breast,22.2,18.9,25.9,160,693186
+2004,Illinois,Female Breast,25.6,24.4,26.8,1830,6414209
+2004,Indiana,Female Breast,24,22.4,25.7,864,3168952
+2004,Iowa,Female Breast,22.4,20.3,24.7,436,1498888
+2004,Kansas,Female Breast,22.4,20.1,24.9,366,1382396
+2004,Kentucky,Female Breast,24.3,22.4,26.4,587,2112051
+2004,Louisiana,Female Breast,27.6,25.5,29.7,685,2338753
+2004,Maine,Female Breast,21.4,18.4,24.8,185,671862
+2004,Maryland,Female Breast,27.1,25.3,29,847,2870043
+2004,Massachusetts,Female Breast,24.1,22.6,25.7,972,3314634
+2004,Minnesota,Female Breast,22.5,20.8,24.4,656,2564037
+2004,Michigan,Female Breast,24.4,23.2,25.7,1413,5117929
+2004,Mississippi,Female Breast,27.4,24.9,30,445,1490115
+2004,Missouri,Female Breast,25.6,23.9,27.3,898,2942685
+2004,Montana,Female Breast,24.6,20.6,29.1,138,465000
+2004,Nebraska,Female Breast,23.5,20.6,26.7,248,883984
+2004,Nevada,Female Breast,25.6,22.7,28.7,294,1156586
+2004,New Hampshire,Female Breast,24,20.6,27.9,179,653845
+2004,New Jersey,Female Breast,26.1,24.7,27.5,1376,4436964
+2004,New Mexico,Female Breast,23.8,20.9,27,247,964738
+2004,New York,Female Breast,24.7,23.8,25.6,2888,9913527
+2005,Alaska,Female Breast,17.9,12.9,24.1,47,320920
+2005,Hawaii,Female Breast,19.5,16.5,22.9,151,644813
+2005,Idaho,Female Breast,19.3,16.2,22.8,143,711983
+2005,Iowa,Female Breast,21.2,19.2,23.4,422,1503019
+2005,Arizona,Female Breast,21.1,19.6,22.8,683,2930811
+2005,Vermont,Female Breast,20.7,16.3,25.9,79,315422
+2005,Indiana,Female Breast,22.7,21.2,24.4,827,3191481
+2005,Florida,Female Breast,22.3,21.5,23.2,2693,9117950
+2005,Connecticut,Female Breast,23.5,21.5,25.7,532,1802068
+2005,Delaware,Female Breast,23.5,19.4,28.2,118,435227
+2005,California,Female Breast,22.8,22.1,23.5,4168,17996230
+2005,Colorado,Female Breast,22.3,20.4,24.3,516,2308238
+2005,Alabama,Female Breast,27.4,25.5,29.4,751,2354514
+2005,Kansas,Female Breast,23.8,21.4,26.3,386,1387958
+2005,Kentucky,Female Breast,23.7,21.8,25.7,584,2129658
+2005,Illinois,Female Breast,25.8,24.6,27,1865,6423831
+2005,Georgia,Female Breast,23.6,22.2,25.1,1057,4555263
+2005,District of Columbia,Female Breast,29,23.4,35.6,95,299613
+2005,Arkansas,Female Breast,24.3,22,26.8,409,1418295
+2005,Wyoming,Female Breast,21.3,16.2,27.6,59,253726
+2005,West Virginia,Female Breast,26.9,24,30,329,927690
+2005,Wisconsin,Female Breast,22.6,21,24.3,764,2797061
+2005,Virginia,Female Breast,25.9,24.4,27.5,1095,3863646
+2005,Washington,Female Breast,23.2,21.6,24.9,794,3145396
+2005,Texas,Female Breast,23,22.1,24,2532,11467895
+2005,Utah,Female Breast,24.3,21.3,27.6,240,1224741
+2005,South Dakota,Female Breast,23.8,19.6,28.7,117,389021
+2005,Tennessee,Female Breast,26.5,24.8,28.3,928,3068439
+2005,South Carolina,Female Breast,26.2,24.2,28.3,655,2192345
+2005,Pennsylvania,Female Breast,24.9,23.9,26,2132,6405053
+2005,Rhode Island,Female Breast,24.6,21,28.7,173,552832
+2005,Oregon,Female Breast,21.9,19.9,24,474,1823447
+2005,Ohio,Female Breast,26.5,25.3,27.7,1867,5876703
+2005,Oklahoma,Female Breast,25.1,22.9,27.3,521,1796475
+2005,North Carolina,Female Breast,25,23.6,26.4,1249,4457189
+2005,North Dakota,Female Breast,22.5,18.1,27.8,93,321543
+2005,New Mexico,Female Breast,22.5,19.7,25.6,241,978520
+2005,New York,Female Breast,24.3,23.4,25.3,2859,9887467
+2005,New Hampshire,Female Breast,23.7,20.4,27.5,183,657932
+2005,New Jersey,Female Breast,27,25.6,28.4,1438,4443545
+2005,Nebraska,Female Breast,23.9,21,27.1,258,889468
+2005,Nevada,Female Breast,24.1,21.4,27.1,290,1198846
+2005,Missouri,Female Breast,27.9,26.2,29.7,974,2962870
+2005,Montana,Female Breast,23.7,19.8,28.2,134,469780
+2005,Minnesota,Female Breast,22.4,20.7,24.2,657,2579546
+2005,Mississippi,Female Breast,26.3,23.8,28.9,429,1482601
+2005,Louisiana,Female Breast,30,27.9,32.3,735,2263201
+2005,Maine,Female Breast,22.4,19.4,25.9,198,674104
+2005,Maryland,Female Breast,25.7,24,27.5,821,2891761
+2005,Massachusetts,Female Breast,23.1,21.7,24.7,940,3309010
+2005,Michigan,Female Breast,24.1,22.8,25.4,1411,5114320
+2006,Hawaii,Female Breast,18.7,15.8,22.1,146,652351
+2006,Montana,Female Breast,18.9,15.5,22.8,113,475341
+2006,Colorado,Female Breast,20.8,19,22.8,494,2352960
+2006,Delaware,Female Breast,21.2,17.4,25.6,110,442766
+2006,New Hampshire,Female Breast,20.9,17.8,24.4,165,662773
+2006,New Mexico,Female Breast,21,18.4,24,230,993969
+2006,North Dakota,Female Breast,20.1,15.9,25.1,84,322583
+2006,Rhode Island,Female Breast,21.2,17.9,25,153,550134
+2006,South Dakota,Female Breast,19.9,16.1,24.5,97,392420
+2006,Maine,Female Breast,21.2,18.3,24.6,193,676157
+2006,Minnesota,Female Breast,20.6,18.9,22.3,612,2600951
+2006,Nebraska,Female Breast,19.9,17.3,22.9,215,894687
+2006,Idaho,Female Breast,20.7,17.5,24.2,160,732104
+2006,Nevada,Female Breast,20.6,18.1,23.3,254,1243993
+2006,Arizona,Female Breast,22.3,20.7,24,750,3026134
+2006,California,Female Breast,22.5,21.8,23.2,4179,18097471
+2006,Florida,Female Breast,21.6,20.8,22.5,2646,9280080
+2006,Connecticut,Female Breast,23.5,21.5,25.6,537,1807675
+2006,Alabama,Female Breast,23.6,21.8,25.5,660,2385480
+2006,Alaska,Female Breast,27.7,21.4,35.3,74,325121
+2006,Arkansas,Female Breast,23.7,21.5,26.2,411,1438428
+2006,Georgia,Female Breast,24.1,22.6,25.5,1112,4670606
+2006,District of Columbia,Female Breast,28.4,22.9,34.9,95,301322
+2006,Illinois,Female Breast,24.3,23.2,25.5,1771,6440022
+2006,Indiana,Female Breast,25.5,23.9,27.2,944,3218203
+2006,New Jersey,Female Breast,27.1,25.7,28.5,1450,4448099
+2006,New York,Female Breast,23.1,22.2,24,2729,9871401
+2006,North Carolina,Female Breast,24,22.7,25.4,1241,4563152
+2006,Ohio,Female Breast,26.5,25.3,27.8,1893,5883067
+2006,Oklahoma,Female Breast,25.4,23.3,27.7,538,1818693
+2006,Oregon,Female Breast,23.1,21.1,25.2,518,1853117
+2006,Pennsylvania,Female Breast,24.8,23.7,25.9,2121,6429312
+2006,South Carolina,Female Breast,24.6,22.7,26.6,630,2237655
+2006,Iowa,Female Breast,22.6,20.5,24.9,446,1511124
+2006,Kansas,Female Breast,23.9,21.5,26.4,396,1394092
+2006,Kentucky,Female Breast,23.9,22,25.9,599,2149096
+2006,Louisiana,Female Breast,26.5,24.5,28.7,641,2204072
+2006,Maryland,Female Breast,25,23.3,26.8,808,2907963
+2006,Massachusetts,Female Breast,23.4,21.9,25,968,3311185
+2006,Michigan,Female Breast,25,23.8,26.4,1493,5106621
+2006,Mississippi,Female Breast,25.6,23.2,28.1,427,1496313
+2006,Missouri,Female Breast,25.4,23.7,27.1,906,2987563
+2006,Virginia,Female Breast,25.3,23.8,26.9,1085,3908475
+2006,Washington,Female Breast,22.9,21.4,24.6,814,3200695
+2006,West Virginia,Female Breast,21.3,18.8,24.1,267,930605
+2006,Wisconsin,Female Breast,22.6,21,24.3,755,2812276
+2006,Wyoming,Female Breast,22.9,17.7,29.3,66,257361
+2006,Tennessee,Female Breast,24.7,23.1,26.4,891,3121455
+2006,Texas,Female Breast,22.6,21.8,23.5,2574,11771243
+2006,Utah,Female Breast,25.9,22.9,29.2,268,1257991
+2006,Vermont,Female Breast,22,17.6,27.2,91,316290
+2007,Hawaii,Female Breast,16.8,14,19.9,134,657185
+2007,Colorado,Female Breast,18.6,16.9,20.4,458,2396433
+2007,Montana,Female Breast,19.3,15.9,23.2,118,480939
+2007,Maine,Female Breast,20.1,17.3,23.3,184,677797
+2007,Massachusetts,Female Breast,20.2,18.9,21.7,839,3321653
+2007,Minnesota,Female Breast,20.9,19.3,22.6,640,2622551
+2007,Oregon,Female Breast,21.2,19.3,23.2,491,1879347
+2007,New Mexico,Female Breast,20.1,17.5,22.9,229,1007922
+2007,South Dakota,Female Breast,21,17.2,25.5,113,396650
+2007,Utah,Female Breast,20.6,17.9,23.5,217,1292672
+2007,Wisconsin,Female Breast,20.8,19.2,22.4,723,2827782
+2007,Iowa,Female Breast,20.4,18.4,22.6,418,1518023
+2007,Florida,Female Breast,20.9,20.1,21.7,2631,9378587
+2007,Arizona,Female Breast,21.1,19.6,22.7,732,3096998
+2007,Nebraska,Female Breast,21.5,18.8,24.6,232,900106
+2007,New York,Female Breast,22.9,22.1,23.8,2744,9881510
+2007,North Dakota,Female Breast,23.1,18.6,28.3,102,324066
+2007,Nevada,Female Breast,23.2,20.6,26,300,1284052
+2007,New Hampshire,Female Breast,23.1,19.9,26.8,184,664987
+2007,Pennsylvania,Female Breast,23.6,22.6,24.7,2072,6452087
+2007,Rhode Island,Female Breast,22,18.6,25.9,157,546859
+2007,Texas,Female Breast,22.7,21.8,23.6,2641,12010572
+2007,Washington,Female Breast,22,20.5,23.6,799,3247800
+2007,West Virginia,Female Breast,22.2,19.7,25.1,283,932683
+2007,Kansas,Female Breast,23.5,21.2,26,397,1405705
+2007,Connecticut,Female Breast,21.4,19.5,23.4,505,1811617
+2007,Georgia,Female Breast,22.8,21.5,24.2,1089,4777572
+2007,Idaho,Female Breast,21.6,18.4,25.1,169,750127
+2007,California,Female Breast,22.3,21.6,23,4221,18214926
+2007,Kentucky,Female Breast,24.6,22.7,26.7,623,2164210
+2007,Louisiana,Female Breast,24.3,22.3,26.3,601,2239125
+2007,Maryland,Female Breast,24.7,23,26.5,814,2920109
+2007,Michigan,Female Breast,24,22.8,25.3,1458,5091035
+2007,Mississippi,Female Breast,23.8,21.6,26.3,401,1507071
+2007,Missouri,Female Breast,24.2,22.6,25.8,882,3007493
+2007,North Carolina,Female Breast,24.2,22.9,25.6,1290,4677313
+2007,Ohio,Female Breast,25,23.9,26.2,1820,5890965
+2007,Oklahoma,Female Breast,25,23,27.3,541,1837175
+2007,New Jersey,Female Breast,26,24.7,27.4,1418,4455148
+2007,South Carolina,Female Breast,23.7,21.9,25.7,633,2280792
+2007,Tennessee,Female Breast,23.7,22.2,25.4,882,3162280
+2007,Vermont,Female Breast,24.6,19.9,30.2,99,316538
+2007,Virginia,Female Breast,24.8,23.3,26.3,1085,3947966
+2007,Wyoming,Female Breast,23.7,18.3,30.2,67,262776
+2007,Illinois,Female Breast,24.6,23.4,25.8,1806,6467577
+2007,Indiana,Female Breast,24,22.5,25.7,902,3241454
+2007,Delaware,Female Breast,26.4,22.2,31.3,139,449398
+2007,Arkansas,Female Breast,26.1,23.8,28.7,458,1451358
+2007,District of Columbia,Female Breast,33.2,27.1,40.3,107,302949
+2007,Alabama,Female Breast,24.2,22.4,26.1,682,2407275
+2007,Alaska,Female Breast,25.9,19.8,33.3,68,327138
+2008,Hawaii,Female Breast,16.3,13.6,19.4,130,665313
+2008,Vermont,Female Breast,16.9,13,21.6,68,316722
+2008,Montana,Female Breast,16.9,13.7,20.6,104,486477
+2008,Wyoming,Female Breast,16.8,12.5,22.1,52,267982
+2008,Alaska,Female Breast,17.8,12.8,23.9,48,329412
+2008,Colorado,Female Breast,18.9,17.2,20.7,484,2439060
+2008,New Mexico,Female Breast,19.5,17,22.2,226,1018578
+2008,Florida,Female Breast,21.2,20.4,22,2705,9465279
+2008,Connecticut,Female Breast,21,19.1,23,494,1820749
+2008,Arizona,Female Breast,20.6,19.1,22.1,734,3155278
+2008,Utah,Female Breast,20.5,17.9,23.4,219,1325631
+2008,Washington,Female Breast,21.1,19.6,22.7,788,3293162
+2008,Rhode Island,Female Breast,21,17.7,24.9,148,545412
+2008,Nebraska,Female Breast,20.7,18.1,23.7,230,905814
+2008,Wisconsin,Female Breast,20.6,19.1,22.2,721,2842268
+2008,Delaware,Female Breast,23.2,19.3,27.6,130,455481
+2008,Georgia,Female Breast,22.2,20.9,23.5,1085,4856984
+2008,Idaho,Female Breast,22,18.9,25.6,179,764792
+2008,Iowa,Female Breast,23.5,21.3,25.8,465,1525539
+2008,Kansas,Female Breast,21.9,19.6,24.3,370,1415563
+2008,Alabama,Female Breast,23.3,21.6,25.2,686,2430257
+2008,Arkansas,Female Breast,21.4,19.3,23.7,382,1464220
+2008,California,Female Breast,21.6,21,22.3,4204,18396972
+2008,South Dakota,Female Breast,23.3,19.2,28.2,117,400236
+2008,Tennessee,Female Breast,22.7,21.2,24.3,857,3203115
+2008,Texas,Female Breast,21.9,21.1,22.8,2608,12249936
+2008,Oregon,Female Breast,22,20.1,24,524,1903535
+2008,North Carolina,Female Breast,22.9,21.6,24.2,1254,4771376
+2008,North Dakota,Female Breast,22,17.6,27.2,93,326131
+2008,Oklahoma,Female Breast,23.1,21.1,25.2,505,1854771
+2008,New York,Female Breast,21.9,21.1,22.8,2658,9918841
+2008,Nevada,Female Breast,23.4,20.9,26.2,312,1310601
+2008,Minnesota,Female Breast,21.5,19.9,23.2,673,2642672
+2008,Maine,Female Breast,21.7,18.7,25,199,679413
+2008,Massachusetts,Female Breast,21.3,19.9,22.8,895,3340730
+2008,West Virginia,Female Breast,23.4,20.8,26.3,301,934911
+2008,Kentucky,Female Breast,21.8,20,23.7,562,2183532
+2008,District of Columbia,Female Breast,28,22.5,34.5,92,306265
+2008,Illinois,Female Breast,23.8,22.7,24.9,1780,6493537
+2008,Indiana,Female Breast,23.9,22.4,25.5,917,3263963
+2008,Virginia,Female Breast,23.8,22.4,25.3,1070,3988983
+2008,Pennsylvania,Female Breast,23.8,22.7,24.8,2108,6473295
+2008,South Carolina,Female Breast,24.6,22.8,26.6,664,2325047
+2008,Ohio,Female Breast,25.1,23.9,26.3,1849,5896594
+2008,New Hampshire,Female Breast,23.6,20.3,27.3,191,666576
+2008,New Jersey,Female Breast,25.6,24.2,27,1409,4469901
+2008,Mississippi,Female Breast,24.9,22.6,27.4,421,1516955
+2008,Missouri,Female Breast,25,23.4,26.7,917,3024837
+2008,Louisiana,Female Breast,26.1,24.1,28.2,657,2269630
+2008,Maryland,Female Breast,25,23.3,26.8,826,2935788
+2008,Michigan,Female Breast,24.3,23,25.6,1478,5065899
+2009,Hawaii,Female Breast,15.7,13,18.7,130,673075
+2009,South Dakota,Female Breast,18,14.4,22.2,96,403198
+2009,New Hampshire,Female Breast,17.7,14.9,20.9,147,666875
+2009,Arizona,Female Breast,19.8,18.4,21.4,716,3189908
+2009,Colorado,Female Breast,19.6,17.9,21.4,513,2480710
+2009,Oregon,Female Breast,18.9,17.1,20.8,454,1923209
+2009,Nebraska,Female Breast,19.4,16.8,22.3,216,913619
+2009,Connecticut,Female Breast,21.1,19.3,23.1,503,1828779
+2009,Delaware,Female Breast,20.3,16.7,24.5,114,459795
+2009,Florida,Female Breast,21.3,20.5,22.1,2776,9534289
+2009,Iowa,Female Breast,20.9,18.9,23.1,432,1532739
+2009,Wisconsin,Female Breast,21.1,19.6,22.7,758,2856103
+2009,Wyoming,Female Breast,20.7,16,26.4,68,274046
+2009,Rhode Island,Female Breast,20.6,17.3,24.4,146,544764
+2009,Oklahoma,Female Breast,21,19.1,23,464,1878034
+2009,North Dakota,Female Breast,20.4,16.1,25.4,88,329674
+2009,Washington,Female Breast,20.8,19.3,22.3,791,3343920
+2009,Vermont,Female Breast,20,15.7,25.2,77,317128
+2009,Texas,Female Breast,21.2,20.4,22,2599,12500150
+2009,Utah,Female Breast,20.2,17.6,23,227,1355509
+2009,North Carolina,Female Breast,21.2,20,22.5,1183,4846501
+2009,Minnesota,Female Breast,21.3,19.7,23,683,2659958
+2009,Alabama,Female Breast,22,20.3,23.8,645,2448159
+2009,Arkansas,Female Breast,23.2,21,25.6,414,1475013
+2009,California,Female Breast,22.3,21.6,23,4413,18583075
+2009,Idaho,Female Breast,22.5,19.3,26,185,775398
+2009,Illinois,Female Breast,22.7,21.7,23.9,1719,6520723
+2009,Indiana,Female Breast,23.2,21.7,24.8,892,3281477
+2009,South Carolina,Female Breast,22.1,20.3,23.9,618,2357030
+2009,West Virginia,Female Breast,22.9,20.2,25.7,292,937434
+2009,Tennessee,Female Breast,23.3,21.8,25,893,3231769
+2009,Kansas,Female Breast,21.4,19.2,23.7,370,1428139
+2009,New York,Female Breast,22,21.2,22.9,2691,9966620
+2009,New Mexico,Female Breast,21.9,19.3,24.8,262,1031238
+2009,Missouri,Female Breast,23.2,21.6,24.8,861,3042021
+2009,Montana,Female Breast,22.9,19.2,27.1,146,490122
+2009,Michigan,Female Breast,22.9,21.7,24.1,1418,5044338
+2009,Maine,Female Breast,21.3,18.4,24.7,195,678694
+2009,Maryland,Female Breast,23.4,21.8,25.2,798,2960001
+2009,Massachusetts,Female Breast,22.4,21,23.9,949,3365859
+2009,Kentucky,Female Breast,23.3,21.5,25.3,614,2193136
+2009,Alaska,Female Breast,28.1,21.7,35.8,72,337002
+2009,District of Columbia,Female Breast,29.2,23.6,35.8,98,311828
+2009,Georgia,Female Breast,24.5,23.1,26,1221,4917756
+2009,Nevada,Female Breast,24,21.5,26.8,333,1327618
+2009,Ohio,Female Breast,23.6,22.4,24.7,1745,5902018
+2009,Virginia,Female Breast,24.2,22.7,25.7,1095,4037895
+2009,Pennsylvania,Female Breast,23.7,22.7,24.8,2123,6497024
+2009,New Jersey,Female Breast,24,22.7,25.4,1348,4493506
+2009,Mississippi,Female Breast,24.5,22.2,27,424,1522000
+2009,Louisiana,Female Breast,25.6,23.7,27.7,661,2295199
+2010,Hawaii,Female Breast,14.9,12.3,17.8,126,680631
+2010,Vermont,Female Breast,19.1,15.1,23.9,83,317659
+2010,Arizona,Female Breast,19.4,18,20.9,733,3223553
+2010,Nebraska,Female Breast,19.2,16.7,22,225,921624
+2010,Massachusetts,Female Breast,19.1,17.7,20.4,825,3389754
+2010,Iowa,Female Breast,19.4,17.4,21.5,392,1539618
+2010,South Dakota,Female Breast,19.5,15.8,23.9,103,407787
+2010,Rhode Island,Female Breast,19,15.9,22.6,139,544379
+2010,Texas,Female Breast,20.8,20,21.7,2627,12722455
+2010,Washington,Female Breast,20.9,19.5,22.5,817,3384379
+2010,California,Female Breast,20.7,20.1,21.3,4238,18779081
+2010,Colorado,Female Breast,20,18.3,21.8,528,2518620
+2010,Montana,Female Breast,21.1,17.6,25.2,134,493384
+2010,Minnesota,Female Breast,20.1,18.6,21.8,650,2675296
+2010,Maine,Female Breast,20.1,17.3,23.2,195,677937
+2010,Kansas,Female Breast,20.4,18.3,22.7,355,1440373
+2010,Connecticut,Female Breast,20.9,19.1,22.9,498,1837055
+2010,West Virginia,Female Breast,20.5,18.1,23.2,272,939875
+2010,Tennessee,Female Breast,22.4,20.9,24,876,3258018
+2010,Virginia,Female Breast,22.2,20.9,23.6,1034,4086440
+2010,Utah,Female Breast,22.2,19.6,25.1,257,1381323
+2010,Alabama,Female Breast,23.5,21.7,25.3,696,2462290
+2010,Alaska,Female Breast,21.9,16.3,28.6,59,342362
+2010,Arkansas,Female Breast,22.7,20.5,25.1,413,1487198
+2010,Nevada,Female Breast,23.5,21,26.3,331,1338606
+2010,Missouri,Female Breast,23.3,21.8,25,884,3058680
+2010,Indiana,Female Breast,22.7,21.3,24.3,888,3297186
+2010,Kentucky,Female Breast,21.8,20.1,23.7,586,2208945
+2010,Florida,Female Breast,21.3,20.5,22.1,2857,9635191
+2010,Georgia,Female Breast,23.6,22.3,25,1222,4971201
+2010,Idaho,Female Breast,21.3,18.3,24.7,185,784094
+2010,Illinois,Female Breast,22.6,21.5,23.7,1740,6543570
+2010,Delaware,Female Breast,22.7,18.9,27.1,130,464074
+2010,New Hampshire,Female Breast,21.6,18.6,25.1,184,667234
+2010,New Jersey,Female Breast,23.2,21.9,24.5,1322,4517794
+2010,South Carolina,Female Breast,22.5,20.7,24.3,643,2380827
+2010,Pennsylvania,Female Breast,23.3,22.3,24.4,2090,6515551
+2010,Oregon,Female Breast,22.9,21,25,555,1938656
+2010,North Carolina,Female Breast,23.3,22,24.6,1334,4902427
+2010,North Dakota,Female Breast,22.8,18.4,28,101,333523
+2010,New Mexico,Female Breast,22.1,19.5,25,266,1044334
+2010,New York,Female Breast,21.6,20.8,22.4,2700,10011290
+2010,Mississippi,Female Breast,24.9,22.6,27.4,432,1527191
+2010,Michigan,Female Breast,23.7,22.5,25,1492,5032165
+2010,Louisiana,Female Breast,24.6,22.7,26.6,648,2319926
+2010,Maryland,Female Breast,24.1,22.5,25.9,845,2988635
+2010,District of Columbia,Female Breast,30.5,24.7,37.2,100,319245
+2010,Ohio,Female Breast,24,22.8,25.1,1793,5905883
+2010,Oklahoma,Female Breast,24.8,22.7,27,554,1899390
+2010,Wisconsin,Female Breast,21.3,19.8,22.9,767,2866039
+2010,Wyoming,Female Breast,22.3,17.4,28.3,72,276702
+2011,Hawaii,Female Breast,12.4,10.1,15.1,107,687577
+2011,North Dakota,Female Breast,17.4,13.7,21.9,83,338183
+2011,Maine,Female Breast,16.9,14.4,19.9,163,677768
+2011,Vermont,Female Breast,17.9,14.1,22.6,81,317707
+2011,Nebraska,Female Breast,18.1,15.6,20.9,206,927325
+2011,New Hampshire,Female Breast,19.8,16.9,23.1,174,667689
+2011,Minnesota,Female Breast,19.6,18.1,21.2,638,2692882
+2011,Massachusetts,Female Breast,19.3,18,20.7,855,3411221
+2011,Iowa,Female Breast,19.5,17.6,21.6,408,1545407
+2011,Kansas,Female Breast,19.9,17.9,22.2,352,1445181
+2011,Alaska,Female Breast,19.9,14.8,26.2,57,346794
+2011,Arizona,Female Breast,19.5,18.1,21,752,3251455
+2011,Colorado,Female Breast,19.7,18,21.4,550,2553383
+2011,Connecticut,Female Breast,19.6,17.8,21.5,484,1841018
+2011,Rhode Island,Female Breast,20,16.7,23.8,144,543326
+2011,Texas,Female Breast,20.2,19.5,21,2630,12924099
+2011,Utah,Female Breast,20.5,18,23.3,244,1401492
+2011,Washington,Female Breast,20.8,19.3,22.3,827,3423305
+2011,Oregon,Female Breast,20.3,18.5,22.2,500,1954193
+2011,New Mexico,Female Breast,20.9,18.3,23.7,249,1050905
+2011,Montana,Female Breast,20.4,17,24.3,134,497141
+2011,Florida,Female Breast,20.5,19.8,21.3,2814,9760894
+2011,Arkansas,Female Breast,20.9,18.8,23.2,388,1495629
+2011,California,Female Breast,20.6,19.9,21.2,4260,18957740
+2011,South Carolina,Female Breast,24.6,22.8,26.5,717,2400552
+2011,South Dakota,Female Breast,23.8,19.7,28.6,125,410891
+2011,Tennessee,Female Breast,21.6,20.2,23.1,867,3279685
+2011,Virginia,Female Breast,22.6,21.3,24,1084,4127214
+2011,West Virginia,Female Breast,23.6,20.9,26.5,303,939647
+2011,Wisconsin,Female Breast,21.4,19.9,23,783,2875152
+2011,Wyoming,Female Breast,21.9,17,27.9,70,278236
+2011,Pennsylvania,Female Breast,22.9,21.9,24,2057,6526549
+2011,Ohio,Female Breast,23.6,22.5,24.7,1803,5904764
+2011,Oklahoma,Female Breast,23.8,21.8,26,541,1912687
+2011,New York,Female Breast,21.4,20.6,22.3,2699,10065115
+2011,North Carolina,Female Breast,22.2,21,23.5,1315,4953206
+2011,New Jersey,Female Breast,24.3,23,25.6,1396,4533223
+2011,Nevada,Female Breast,23.3,20.9,26,346,1347717
+2011,Mississippi,Female Breast,22.9,20.7,25.3,401,1530884
+2011,Missouri,Female Breast,23.2,21.7,24.9,898,3065043
+2011,Michigan,Female Breast,22.6,21.4,23.8,1431,5030665
+2011,Maryland,Female Breast,22.2,20.7,23.9,785,3015076
+2011,Kentucky,Female Breast,22.6,20.8,24.5,613,2219630
+2011,Louisiana,Female Breast,24.5,22.7,26.5,658,2336046
+2011,Indiana,Female Breast,22.2,20.7,23.8,879,3309219
+2011,Idaho,Female Breast,22.1,19,25.5,193,790665
+2011,Illinois,Female Breast,23.2,22.2,24.4,1815,6550437
+2011,Georgia,Female Breast,22.6,21.3,23.9,1188,5019295
+2011,Alabama,Female Breast,21.4,19.8,23.2,647,2470995
+2011,Delaware,Female Breast,22,18.3,26.3,128,468363
+2011,District of Columbia,Female Breast,26.3,21,32.5,89,326728
+2012,Wyoming,Female Breast,15.4,11.4,20.4,52,282336
+2012,Hawaii,Female Breast,15.9,13.3,18.9,138,693651
+2012,Idaho,Female Breast,15.8,13.3,18.7,144,796679
+2012,Alaska,Female Breast,17.5,13,22.9,58,350211
+2012,Maine,Female Breast,17.2,14.7,20.2,168,678037
+2012,North Dakota,Female Breast,16.8,13.1,21.2,79,344921
+2012,Minnesota,Female Breast,18,16.5,19.5,604,2707336
+2012,New Mexico,Female Breast,17.8,15.5,20.3,231,1052934
+2012,Rhode Island,Female Breast,17.9,14.9,21.5,132,543251
+2012,Washington,Female Breast,17.8,16.5,19.2,731,3458706
+2012,Arizona,Female Breast,19.1,17.7,20.6,750,3292904
+2012,Connecticut,Female Breast,19,17.3,20.9,479,1842402
+2012,South Dakota,Female Breast,19.1,15.5,23.3,107,415431
+2012,Massachusetts,Female Breast,19.3,18,20.7,860,3431949
+2012,New Hampshire,Female Breast,19,16.1,22.3,164,668824
+2012,Vermont,Female Breast,19.4,15.3,24.4,85,317505
+2012,Colorado,Female Breast,20.3,18.6,22,579,2588054
+2012,California,Female Breast,21.1,20.5,21.7,4479,19126306
+2012,Florida,Female Breast,20.4,19.7,21.2,2848,9889174
+2012,Texas,Female Breast,21.1,20.3,21.9,2821,13136126
+2012,Iowa,Female Breast,20.2,18.2,22.3,417,1550033
+2012,Montana,Female Breast,20.4,17,24.4,133,500508
+2012,Nebraska,Female Breast,21.2,18.5,24.1,245,933367
+2012,New York,Female Breast,20.7,19.9,21.5,2632,10100562
+2012,Oregon,Female Breast,20.3,18.5,22.2,510,1969360
+2012,Utah,Female Breast,20.5,18,23.2,249,1419977
+2012,Virginia,Female Breast,21.2,19.9,22.6,1032,4166416
+2012,Wisconsin,Female Breast,20.5,19,22,763,2882702
+2012,Alabama,Female Breast,22.8,21.1,24.6,691,2479614
+2012,Arkansas,Female Breast,23.3,21.1,25.6,444,1501133
+2012,Delaware,Female Breast,22.6,18.9,26.9,136,472858
+2012,South Carolina,Female Breast,22.3,20.6,24.1,670,2425790
+2012,Tennessee,Female Breast,22.8,21.3,24.3,920,3307668
+2012,Georgia,Female Breast,21.6,20.3,22.9,1175,5071773
+2012,Illinois,Female Breast,22.9,21.8,24,1810,6554465
+2012,Indiana,Female Breast,21.7,20.3,23.2,876,3318371
+2012,Kansas,Female Breast,22.9,20.7,25.4,397,1451788
+2012,Kentucky,Female Breast,23.2,21.5,25.1,646,2226118
+2012,Michigan,Female Breast,22.1,20.9,23.3,1425,5033075
+2012,Missouri,Female Breast,22.4,20.8,23.9,861,3071700
+2012,Nevada,Female Breast,22.1,19.8,24.7,328,1365943
+2012,New Jersey,Female Breast,22.6,21.4,23.9,1312,4547298
+2012,North Carolina,Female Breast,21.4,20.2,22.6,1287,5003569
+2012,Ohio,Female Breast,22.7,21.6,23.8,1741,5903367
+2012,Oklahoma,Female Breast,23.4,21.5,25.6,539,1926891
+2012,Pennsylvania,Female Breast,22.4,21.4,23.4,2029,6534002
+2012,West Virginia,Female Breast,22.3,19.8,25.2,294,939735
+2012,District of Columbia,Female Breast,31.1,25.4,37.8,107,334433
+2012,Louisiana,Female Breast,24.2,22.4,26.2,660,2350568
+2012,Maryland,Female Breast,23.7,22.1,25.4,857,3036796
+2012,Mississippi,Female Breast,25.1,22.8,27.6,455,1534582
+2013,Hawaii,Female Breast,15.3,12.7,18.2,138,700264
+2013,North Dakota,Female Breast,17.6,13.8,22.3,79,354142
+2013,New Mexico,Female Breast,17.1,14.9,19.6,224,1053309
+2013,Vermont,Female Breast,18.7,14.7,23.6,79,317714
+2013,Massachusetts,Female Breast,18.4,17.1,19.7,832,3456311
+2013,Colorado,Female Breast,17.9,16.4,19.6,531,2626139
+2013,Connecticut,Female Breast,18.7,16.9,20.5,454,1842705
+2013,Iowa,Female Breast,18.6,16.7,20.7,385,1556966
+2013,Kansas,Female Breast,18.2,16.3,20.4,334,1454240
+2013,Maine,Female Breast,18.7,16,21.7,186,677664
+2013,South Dakota,Female Breast,19.9,16.2,24.3,110,420307
+2013,Rhode Island,Female Breast,19.4,16.2,23,143,543176
+2013,Oregon,Female Breast,19.9,18.2,21.8,519,1983096
+2013,New Hampshire,Female Breast,19.8,16.9,23.1,176,669265
+2013,Montana,Female Breast,19.7,16.5,23.5,137,504744
+2013,Minnesota,Female Breast,19.5,18,21.1,665,2725742
+2013,Alaska,Female Breast,19.4,14.6,25.2,61,351622
+2013,Florida,Female Breast,19.4,18.7,20.2,2778,10009629
+2013,Wisconsin,Female Breast,20.3,18.8,21.9,762,2890443
+2013,Wyoming,Female Breast,20.8,16.2,26.4,72,285466
+2013,Washington,Female Breast,20.4,19,21.9,854,3493208
+2013,Virginia,Female Breast,21,19.7,22.4,1049,4200657
+2013,Texas,Female Breast,20.1,19.4,20.9,2746,13336093
+2013,Utah,Female Breast,20.4,17.9,23,255,1442748
+2013,South Carolina,Female Breast,21.1,19.5,22.9,638,2450539
+2013,New York,Female Breast,20.5,19.7,21.3,2632,10132132
+2013,North Carolina,Female Breast,20.4,19.3,21.6,1254,5053527
+2013,Nebraska,Female Breast,20.8,18.2,23.7,245,938758
+2013,Michigan,Female Breast,21.1,20,22.3,1382,5036784
+2013,Arizona,Female Breast,20.4,19,21.9,839,3332399
+2013,California,Female Breast,20,19.4,20.7,4371,19295514
+2013,Delaware,Female Breast,21.2,17.7,25.3,131,477451
+2013,Kentucky,Female Breast,21.1,19.4,22.9,585,2232880
+2013,West Virginia,Female Breast,21.6,19,24.4,277,937378
+2013,Tennessee,Female Breast,22.3,20.9,23.8,928,3328090
+2013,Pennsylvania,Female Breast,21.7,20.7,22.7,2001,6532700
+2013,Oklahoma,Female Breast,23,21.1,25.1,542,1943794
+2013,Ohio,Female Breast,22.8,21.7,23.9,1780,5909091
+2013,New Jersey,Female Breast,23,21.8,24.3,1356,4558162
+2013,Nevada,Female Breast,22.5,20.1,25,352,1384611
+2013,Missouri,Female Breast,21.9,20.4,23.5,858,3078782
+2013,Mississippi,Female Breast,23.1,20.9,25.5,418,1537088
+2013,Alabama,Female Breast,21.4,19.7,23.1,661,2487129
+2013,Arkansas,Female Breast,21.4,19.3,23.7,400,1505511
+2013,Georgia,Female Breast,22.5,21.3,23.8,1245,5112405
+2013,Idaho,Female Breast,22.2,19.2,25.6,205,804442
+2013,Illinois,Female Breast,22.1,21.1,23.2,1761,6555899
+2013,Indiana,Female Breast,21.7,20.3,23.3,887,3333280
+2013,Maryland,Female Breast,21.4,19.9,23,783,3057874
+2013,District of Columbia,Female Breast,29.7,24.2,36,108,341144
+2013,Louisiana,Female Breast,23.9,22,25.8,652,2362330
+2014,Wyoming,Female Breast,14.3,10.6,18.9,52,285686
+2014,North Dakota,Female Breast,14.4,11,18.5,66,360722
+2014,Hawaii,Female Breast,16.4,13.8,19.3,158,704907
+2014,Minnesota,Female Breast,17,15.6,18.5,592,2741831
+2014,Maine,Female Breast,17,14.4,19.9,173,678527
+2014,Connecticut,Female Breast,17.4,15.7,19.2,439,1839703
+2014,Massachusetts,Female Breast,17.8,16.6,19.2,818,3476879
+2014,Colorado,Female Breast,18.4,16.8,20,554,2664922
+2014,South Dakota,Female Breast,18.6,15,22.8,102,423635
+2014,Rhode Island,Female Breast,18.3,15.1,21.9,132,543355
+2014,New Mexico,Female Breast,18.8,16.5,21.4,246,1051867
+2014,Vermont,Female Breast,18.1,14.1,22.8,79,317629
+2014,Montana,Female Breast,19.1,15.9,22.8,134,508729
+2014,Kansas,Female Breast,18.9,16.9,21.1,357,1456338
+2014,Florida,Female Breast,19.6,18.9,20.4,2904,10167970
+2014,Arizona,Female Breast,19.1,17.7,20.5,793,3380147
+2014,Wisconsin,Female Breast,19.2,17.8,20.7,739,2897246
+2014,New York,Female Breast,19.2,18.4,20,2500,10152272
+2014,Texas,Female Breast,19.8,19,20.5,2783,13572223
+2014,Iowa,Female Breast,19.1,17.2,21.2,398,1564085
+2014,New Hampshire,Female Breast,21.1,18.2,24.5,194,671591
+2014,Kentucky,Female Breast,20.8,19.1,22.6,579,2239180
+2014,Indiana,Female Breast,20.9,19.5,22.4,863,3345808
+2014,Idaho,Female Breast,20.5,17.6,23.7,191,815040
+2014,Delaware,Female Breast,21.1,17.6,25.2,134,482334
+2014,California,Female Breast,20.1,19.5,20.7,4451,19468191
+2014,Pennsylvania,Female Breast,20.7,19.8,21.7,1931,6534062
+2014,Oregon,Female Breast,20.4,18.6,22.3,539,2004243
+2014,North Carolina,Female Breast,20.9,19.7,22,1311,5104263
+2014,Utah,Female Breast,20.4,18,23,263,1462056
+2014,Alabama,Female Breast,21,19.4,22.6,666,2495181
+2014,Washington,Female Breast,20.3,18.9,21.7,866,3533086
+2014,Nebraska,Female Breast,21.3,18.6,24.2,251,944599
+2014,Nevada,Female Breast,22,19.7,24.5,351,1409276
+2014,Mississippi,Female Breast,23.5,21.3,25.9,439,1539178
+2014,Missouri,Female Breast,21.9,20.5,23.5,882,3086943
+2014,Maryland,Female Breast,22.8,21.3,24.5,862,3077024
+2014,Michigan,Female Breast,22.3,21.2,23.5,1470,5042843
+2014,Illinois,Female Breast,21.8,20.8,22.9,1756,6548836
+2014,Georgia,Female Breast,22.6,21.3,23.9,1286,5168814
+2014,Arkansas,Female Breast,22.5,20.3,24.8,424,1509758
+2014,South Carolina,Female Breast,22.9,21.2,24.7,725,2482680
+2014,Ohio,Female Breast,22.5,21.4,23.6,1756,5918232
+2014,Oklahoma,Female Breast,22,20.1,24,520,1956189
+2014,New Jersey,Female Breast,21.5,20.4,22.8,1280,4569466
+2014,Tennessee,Female Breast,21.5,20.1,23,909,3352833
+2014,West Virginia,Female Breast,22.4,19.9,25.2,300,935068
+2014,Virginia,Female Breast,22.6,21.3,24,1145,4227373
+2014,Louisiana,Female Breast,24.1,22.3,26.1,671,2373469
+2014,District of Columbia,Female Breast,29,23.5,35.4,103,345936
+2014,Alaska,Female Breast,24,18.5,30.4,74,351169
+2015,Connecticut,Female Breast,17.2,15.6,19,432,1835498
+2015,Rhode Island,Female Breast,17.4,14.5,20.9,137,543323
+2015,Alaska,Female Breast,17.8,13.3,23.3,60,351592
+2015,Iowa,Female Breast,18.5,16.6,20.5,388,1570024
+2015,Massachusetts,Female Breast,17.6,16.4,18.9,818,3493764
+2015,Nebraska,Female Breast,18.6,16.3,21.3,233,950376
+2015,South Dakota,Female Breast,18.6,15,22.8,104,425926
+2015,Wisconsin,Female Breast,18.7,17.3,20.1,717,2900825
+2015,California,Female Breast,19.6,19,20.2,4472,19625528
+2015,Hawaii,Female Breast,19,16.2,22.1,180,709113
+2015,Arizona,Female Breast,19,17.7,20.4,823,3430082
+2015,Kansas,Female Breast,19.8,17.8,22.1,366,1459205
+2015,Minnesota,Female Breast,19.2,17.8,20.8,680,2754885
+2015,New Hampshire,Female Breast,18.8,16,22,173,671809
+2015,New Mexico,Female Breast,19.7,17.3,22.3,264,1050497
+2015,New York,Female Breast,19.2,18.4,20,2524,10163440
+2015,Florida,Female Breast,19,18.3,19.7,2856,10351307
+2015,Colorado,Female Breast,19,17.4,20.6,582,2711233
+2015,Texas,Female Breast,19.7,19,20.4,2857,13813647
+2015,Michigan,Female Breast,20.5,19.4,21.7,1378,5040958
+2015,Arkansas,Female Breast,20.1,18.1,22.3,394,1515009
+2015,Indiana,Female Breast,20.6,19.2,22.1,856,3353958
+2015,Kentucky,Female Breast,21.1,19.4,22.9,593,2244369
+2015,Maine,Female Breast,20.1,17.4,23.2,210,678029
+2015,New Jersey,Female Breast,21,19.8,22.2,1272,4574398
+2015,Delaware,Female Breast,21.1,17.7,25,143,486960
+2015,North Dakota,Female Breast,21.1,16.8,26.2,91,368098
+2015,Oregon,Female Breast,20,18.3,21.8,550,2032247
+2015,South Carolina,Female Breast,20.4,18.8,22.1,654,2517715
+2015,Utah,Female Breast,20.1,17.7,22.7,268,1485572
+2015,Vermont,Female Breast,21,16.8,26,96,317024
+2015,Washington,Female Breast,19.9,18.6,21.3,873,3584798
+2015,West Virginia,Female Breast,21.1,18.6,23.9,279,930656
+2015,Wyoming,Female Breast,20.2,15.6,25.7,70,286855
+2015,Idaho,Female Breast,21.9,18.9,25.2,208,824551
+2015,Illinois,Female Breast,21.8,20.7,22.8,1781,6531645
+2015,Georgia,Female Breast,21.3,20.2,22.6,1241,5229726
+2015,Alabama,Female Breast,22.6,21,24.4,729,2501401
+2015,Louisiana,Female Breast,21.7,20,23.6,615,2384278
+2015,Maryland,Female Breast,21.7,20.2,23.3,825,3091633
+2015,Mississippi,Female Breast,21.8,19.7,24.1,424,1539511
+2015,Missouri,Female Breast,21.4,20,22.9,867,3093650
+2015,Montana,Female Breast,21.4,18,25.5,146,512869
+2015,Nevada,Female Breast,21.4,19.2,23.8,358,1436336
+2015,North Carolina,Female Breast,21.6,20.5,22.8,1397,5155973
+2015,District of Columbia,Female Breast,28.5,23.1,34.7,102,352341
+2015,Ohio,Female Breast,22.8,21.7,23.9,1803,5921183
+2015,Oklahoma,Female Breast,22.6,20.7,24.7,540,1971061
+2015,Pennsylvania,Female Breast,21.7,20.8,22.7,2036,6530809
+2015,Tennessee,Female Breast,22.1,20.6,23.6,941,3379230
+2015,Virginia,Female Breast,21.3,20.1,22.7,1117,4251666

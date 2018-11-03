@@ -1,0 +1,43 @@
+CancerType,Duration,Race,Sex,Age,Percentage,Count
+Female Breast,5-year Limited Duration,All Races,Female,All Ages,0.6067,1000721
+Female Breast,5-year Limited Duration,All Races,Female,All Ages (Age-Adjusted),0.5267,null
+Female Breast,5-year Limited Duration,All Races,Female,0-19,0.0001,36
+Female Breast,5-year Limited Duration,All Races,Female,20-29,0.0122,2685
+Female Breast,5-year Limited Duration,All Races,Female,30-39,0.1366,28412
+Female Breast,5-year Limited Duration,All Races,Female,40-49,0.5723,118965
+Female Breast,5-year Limited Duration,All Races,Female,50-59,1.0213,230244
+Female Breast,5-year Limited Duration,All Races,Female,60-69,1.5426,279176
+Female Breast,5-year Limited Duration,All Races,Female,70-79,2.0232,213392
+Female Breast,5-year Limited Duration,All Races,Female,80+,1.712,127810
+Female Breast,5-year Limited Duration,White,Female,All Ages,0.6547,844710
+Female Breast,5-year Limited Duration,White,Female,All Ages (Age-Adjusted),0.5412,null
+Female Breast,5-year Limited Duration,White,Female,0-19,0.0001,19
+Female Breast,5-year Limited Duration,White,Female,20-29,0.0116,1905
+Female Breast,5-year Limited Duration,White,Female,30-39,0.1366,21401
+Female Breast,5-year Limited Duration,White,Female,40-49,0.5845,93507
+Female Breast,5-year Limited Duration,White,Female,50-59,1.0425,187921
+Female Breast,5-year Limited Duration,White,Female,60-69,1.5898,237263
+Female Breast,5-year Limited Duration,White,Female,70-79,2.1009,187529
+Female Breast,5-year Limited Duration,White,Female,80+,1.7721,115164
+Female Breast,5-year Limited Duration,Black,Female,All Ages,0.4814,111506
+Female Breast,5-year Limited Duration,Black,Female,All Ages (Age-Adjusted),0.5015,null
+Female Breast,5-year Limited Duration,Black,Female,0-19,0.0002,15
+Female Breast,5-year Limited Duration,Black,Female,20-29,0.0163,591
+Female Breast,5-year Limited Duration,Black,Female,30-39,0.1531,4762
+Female Breast,5-year Limited Duration,Black,Female,40-49,0.5659,16812
+Female Breast,5-year Limited Duration,Black,Female,50-59,1.0102,30101
+Female Breast,5-year Limited Duration,Black,Female,60-69,1.4733,30407
+Female Breast,5-year Limited Duration,Black,Female,70-79,1.8088,19088
+Female Breast,5-year Limited Duration,Black,Female,80+,1.5144,9730
+Female Breast,5-year Limited Duration,Other,Female,All Ages,0.3541,44505
+Female Breast,5-year Limited Duration,Other,Female,All Ages (Age-Adjusted),0.3686,null
+Female Breast,5-year Limited Duration,Other,Female,0-19,0,1
+Female Breast,5-year Limited Duration,Other,Female,20-29,0.0098,189
+Female Breast,5-year Limited Duration,Other,Female,30-39,0.1111,2249
+Female Breast,5-year Limited Duration,Other,Female,40-49,0.4766,8646
+Female Breast,5-year Limited Duration,Other,Female,50-59,0.7977,12222
+Female Breast,5-year Limited Duration,Other,Female,60-69,1.0466,11506
+Female Breast,5-year Limited Duration,Other,Female,70-79,1.2146,6776
+Female Breast,5-year Limited Duration,Other,Female,80+,0.9082,2916
+Female Breast,5-year Limited Duration,White,Female,Overall,null,844710
+Female Breast,5-year Limited Duration,Other,Female,Overall,null,44505

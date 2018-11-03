@@ -1,0 +1,6 @@
+#CancerType,Year,Race,AgeSpecificRate,DeathCount,Population
+Female Breast,2011-2015,American Indian/Alaska Native,11.2,903,11083013
+Female Breast,2011-2015,Asian/Pacific Islander,11.4,5450,49023162
+Female Breast,2011-2015,Black,28.7,31001,113993737
+Female Breast,2011-2015,Hispanic,14.3,13214,133628537
+Female Breast,2011-2015,White,20.3,168321,629166606
